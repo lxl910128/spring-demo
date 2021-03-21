@@ -1,0 +1,3 @@
+server:
+  port: 9095
+  address: 0.0.0.0
